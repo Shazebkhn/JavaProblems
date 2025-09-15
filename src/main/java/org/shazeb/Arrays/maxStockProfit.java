@@ -5,8 +5,9 @@ import java.util.Map;
 
 public class maxStockProfit {
     public static void main(String[] args) {
-        int[] num = {1,2,3,4,5,4,1};//{5,4,3,2,1};
+        int[] num = {1,2,3,4};//{5,4,3,2,1};
         System.out.println(maxProfit(num));
+        System.out.println(maxProfit2(num));
     }
 
     static int maxProfit(int[] stocks){
@@ -27,5 +28,20 @@ public class maxStockProfit {
         }
         return max-min;
     }
+
+    //optimal code without using map
+    static int maxProfit2(int[] num){
+        int min = Integer.MAX_VALUE, maxprof=0;
+
+        for (int n: num){
+            if(n-min>maxprof) {
+                maxprof = n-min;
+            }
+            if(n<min){
+                min = n;
+            }
+            }
+        return maxprof;
+        }
 }
 
