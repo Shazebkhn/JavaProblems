@@ -1,0 +1,430 @@
+{
+  "personalInfo": {
+    "fatherName": "PARVEZ KHAN",
+    "orgFirmInfo": {
+      "AssesseeName": {
+        "SurNameOrOrgName": "KHAN"
+      },
+      "DateOFFormOrIncorp": "1989-01-15",
+      "StatusOrCompanyType": "IND"
+    },
+    "address": {
+      "zipCode": "",
+      "localityOrArea": "UDHAM SINGH NAGAR",
+      "residenceNo": "Ward no. 26",
+      "cityOrTownOrDistrict": "Rudarpur S.O",
+      "mobileNo": 7838311685,
+      "emailAddressSecondary": "shazebkhan9@live.com",
+      "emailAddress": "shazeb.genuine@gmail.com",
+      "countryCodeMobile": 91,
+      "phone": {},
+      "countryCode": "91",
+      "roadOrStreet": "Rudrapur",
+      "pinCode": 263153,
+      "stateCode": "34",
+      "residenceName": "Seer Gotia"
+    },
+    "assesseeName": {
+      "firstName": "SHAZEB",
+      "surNameOrOrgName": "KHAN"
+    },
+    "portugeseCC5A": "",
+    "assesseeVerName": "SHAZEB KHAN",
+    "capacity": "S",
+    "filingStatus": {
+      "residentialStatus": "RES"
+    },
+    "assesseVerPan": "CNHPK3383G",
+    "dob": "1989-01-15",
+    "aadhaarCardNo": "Nzc5MjMyNjg4NDI0",
+    "pan": "CNHPK3383G",
+    "status": "I"
+  },
+  "orgFirmInfo": null,
+  "Form10BA": null,
+  "form10DA": null,
+  "form3CD": {
+    "PartAOI": {
+      "ScheduleTPSAFlg": "N",
+      "Amount": 0
+    }
+  },
+  "scheduleAL": null,
+  "form3CE": null,
+  "form26as": {
+    "tdsOnOthThanSals": {
+      "tdSonOthThanSal": [
+        {
+          "taxDeductCreditDtls": {
+            "taxClaimedOwnHands": 11767,
+            "taxDeductedOwnHands": 11767
+          },
+          "TDSCreditName": "S",
+          "sectionCode": "94A",
+          "grossAmount": 96412,
+          "headOfIncome": "OS",
+          "employerOrDeductorOrCollectDetl": {
+            "tan": "MUMU05151G",
+            "employerOrDeductorOrCollecterName": "AXIS BANK LIMITED"
+          }
+        }
+      ]
+    },
+    "scheduleOS": {
+      "incOthThanOwnRaceHorse": {}
+    },
+    "persumptiveInc44ADA": {
+      "grsReceipt": 0
+    },
+    "tdsOnSalaries": {
+      "tdsOnSalary": [
+        {
+          "totalTDSSal": 540112,
+          "incChrgSal": 2839455,
+          "employerOrDeductorOrCollectDetl": {
+            "tan": "BLRT01505A",
+            "employerOrDeductorOrCollecterName": "THOUGHT WORKS TECHNOLOGIES (INDIA) P.LTD"
+          }
+        }
+      ]
+    },
+    "incomeDeductionsOthersInc": [
+      {
+        "othSrcOthAmount": 117667,
+        "othSrcNatureDesc": "IFD"
+      },
+      {
+        "othSrcOthAmount": 60925,
+        "othSrcNatureDesc": "SAV"
+      }
+    ],
+    "intrstFrmTermDeposit": 117667
+  },
+  "form10IBICID": null,
+  "otherSourceIncome": null,
+  "form10IE": null,
+  "form10CCE": null,
+  "form10CCF": null,
+  "form10CCD": null,
+  "itba": null,
+  "form64D": null,
+  "verification": {
+    "declaration": {
+      "fatherName": "PARVEZ KHAN",
+      "assesseeVerPAN": "CNHPK3383G",
+      "assesseeVerName": "SHAZEB KHAN"
+    },
+    "capacity": "S"
+  },
+  "bankAccountDtls": [
+    {
+      "addtnlBankDetails": [
+        {
+          "useForRefund": "false",
+          "bankAccountNo": "107001540629",
+          "bankName": "ICICI BANK LIMITED",
+          "ifsccode": "ICIC0001070",
+          "AccountType": "SB"
+        },
+        {
+          "useForRefund": "true",
+          "bankAccountNo": "5587465223",
+          "bankName": "AXIS BANK",
+          "ifsccode": "UTIB0005140",
+          "AccountType": "SB"
+        }
+      ]
+    }
+  ],
+  "form56F": null,
+  "insights": {
+    "cumulativeSalary": {
+      "perquisitesValue": 68556,
+      "profitsInSalary": 0,
+      "salary": 2770899,
+      "salaryUpdateTimestamp": "1750933368000"
+    },
+    "salaries": {
+      "salary": [
+        {
+          "nameOfEmployer": "THOUGHT WORKS TECHNOLOGIES (INDIA) P.LTD",
+          "salarys": {
+            "valueOfPerquisites": 68556,
+            "profitsinLieuOfSalary": 0,
+            "salary": 2770899
+          },
+          "tanOfEmployer": "BLRT01505A"
+        }
+      ]
+    },
+    "intrstFrmSavingBank": 60925,
+    "intrstFrmTermDeposit": 117667,
+    "incomeDeductionsOthersInc": [
+      {
+        "othSrcOthAmount": 117667,
+        "othSrcNatureDesc": "IFD"
+      },
+      {
+        "othSrcOthAmount": 60925,
+        "othSrcNatureDesc": "SAV"
+      }
+    ],
+    "UsrDeductUndChapVIAType": {
+      "Section80TTB": 50000
+    }
+  },
+  "form10CCB": null,
+  "form29b": null,
+  "scheduleCFL": {
+    "CarryFwdLossDetail": []
+  },
+  "filingStatus": {
+    "SeventhProvisio139": "N",
+    "OptingNewTaxRegimeForm10IF": 2
+  },
+  "form24q": {
+    "taxComputation": {
+      "section89": 0
+    },
+    "form24qTimestamp": "2025-06-14 02:01:41.644",
+    "usrDeductUndChapVIAType": {
+      "section80CCD1B": 0,
+      "section80CCDEmployeeOrSE": 0,
+      "section80TTA": 0,
+      "section80C": 0,
+      "section80CCC": 0,
+      "section80E": 0,
+      "section80CCDEmployer": 0
+    },
+    "dedDetId24Q": "721510721",
+    "salaries": {
+      "salary": [
+        {
+          "addressDetail": {
+            "zipCode": "",
+            "addDetail": "CORPORATE WING DIAMOND DISTRICT, AIRPORT ROAD KODIHALLI, BANGALORE -",
+            "pinCode": "560056",
+            "stateCode": "15",
+            "cityOrTownOrDistrict": "560 008"
+          },
+          "nameOfEmployer": "THOUGHT WORKS TECHNOLOGIES (INDIA) P.LTD",
+          "salarys": {
+            "valueOfPerquisites": 68556,
+            "profitsinLieuOfSalary": 0,
+            "natureOfSalary": {
+              "othersIncDtls": [
+                {
+                  "othAmount": 2770899,
+                  "natureDesc": "1"
+                }
+              ]
+            },
+            "salary": 2770899,
+            "natureOfPerquisites": {
+              "othersIncDtls": [
+                {
+                  "othAmount": 68556,
+                  "natureDesc": "OTH"
+                }
+              ]
+            },
+            "natureOfProfitInLieuOfSalary": {
+              "othersIncDtls": [
+                {
+                  "othAmount": 0,
+                  "natureDesc": "NA"
+                }
+              ]
+            }
+          },
+          "tanOfEmployer": "BLRT01505A"
+        }
+      ]
+    },
+    "incomeDeductions": {
+      "perquisitesValue": 68556,
+      "entertainmentAlw16Ii": 0,
+      "professionalTaxUs16Iii": 0,
+      "totalIncomeChargeableUnHP": 0,
+      "profitsInSalary": 0,
+      "deductionUs16Ia": 50000,
+      "totalIncomeOfHP": 0,
+      "salary": 2770899
+    },
+    "allwncExemptUs10DtlsType": [],
+    "intrstFrmSavingBank": 60925,
+    "TotalAllwncExemptUs10": 0,
+    "PensionerFlag": "N",
+    "isActive": false
+  },
+  "partAGEN2": null,
+  "ScheduleEI": null,
+  "Form10A": null,
+  "Form10IFA": null,
+  "ais": null,
+  "ScheduleESOP": null,
+  "formCCBA": null,
+  "auditInfo": null,
+  "incDeductionsOthIncCPC": [
+    {
+      "itrAy": "2025",
+      "othSrcOthAmount": 4830,
+      "othSrcNatureDesc": "TAX"
+    }
+  ],
+  "formCCBD": null,
+  "formCCBC": null,
+  "formCCBB": null,
+  "form67": null,
+  "assesseeRep": null,
+  "form66": null,
+  "form10E": null,
+  "Schedule80RA": null,
+  "Form10IA": null,
+  "Schedule80G": null,
+  "form64A": null,
+  "Form10AB": null,
+  "Form10IEA": null,
+  "form10IF": {
+    "newTaxRegime": "N"
+  },
+  "form10AC": null,
+  "form10BOR10BB": null,
+  "natOfBus": null,
+  "filingReturn": null,
+  "lastFiledITR": {
+    "foreignBankDetails": [],
+    "usrDeductUndChapVIAType": {},
+    "benefitUs115HFlg": "N",
+    "schedule80D": {
+      "Sec80DSelfFamSrCtznHealth": {
+        "SeniorCitizenFlag": "Y",
+        "ParentSeniorCitizenFlag": "Y"
+      }
+    },
+    "assetOutIndiaFlag": "NO",
+    "scheduleUD": [],
+    "scheduleSPI": {
+      "specifiedPerson": []
+    },
+    "scheduleAMTC": {
+      "scheduleAMTCDtls": [
+        {
+          "gross": 0,
+          "assYr": "2013-14",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2014-15",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2015-16",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2016-17",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2017-18",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2018-19",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2019-20",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2020-21",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2021-22",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2022-23",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2023-24",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        },
+        {
+          "gross": 0,
+          "assYr": "2024-25",
+          "amtCreditSetOfEy": 0,
+          "amtCreditFwd": 0
+        }
+      ]
+    },
+    "totalNumOfMonths": 0,
+    "scheduleHP": {
+      "propertyDetails": []
+    },
+    "scheduleTCS": {
+      "tcs": []
+    },
+    "filingStatus": {
+      "ResidentialStatus": "RES"
+    },
+    "heldUnlistedEqShrPrYrFlg": "N",
+    "compDirectorPrvYrFlg": "N",
+    "scheduleMATC": {},
+    "scheduleFA": {
+      "detailsImmovableProperty": [],
+      "detailsForiegnBank": [],
+      "detailsOfTrustOutIndiaTrustee": [],
+      "detailsFinancialInterest": [],
+      "detailsOfAccntsHvngSigningAuth": [],
+      "dtlsForeignCashValueInsurance": [],
+      "detailsOfOthSourcesIncOutsideIndia": [],
+      "dtlsForeignCustodialAcc": [],
+      "dtlsForeignEquityDebtInterest": [
+        {
+          "initialValOfInvstmnt": 104511,
+          "zipCode": "60601",
+          "countryCode": "2",
+          "natureOfEntity": "Equity shares",
+          "nameOfEntity": "Thoughtworks Holding Inc",
+          "peakBalanceDuringPeriod": 104511,
+          "countryName": "2-United States Of America",
+          "interestAcquiringDate": "2023-12-31",
+          "addressOfEntity": "200 East Randolph Street 25th Floor Chicago, IL 60601, United States"
+        }
+      ],
+      "detailsOthAssets": []
+    },
+    "schedule5A2014": {},
+    "natOfEmployment": [
+      "OTH"
+    ]
+  },
+  "form3CEA": null,
+  "form3CEB": null
+}
