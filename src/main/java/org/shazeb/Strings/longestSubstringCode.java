@@ -1,8 +1,8 @@
-package org.shazeb;
+package org.shazeb.Strings;
 
 import java.util.*;
 
-public class substringCode {
+public class longestSubstringCode {
 
     public static void main(String[] args) {
         String input = "test testlol";

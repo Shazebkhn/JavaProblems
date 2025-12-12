@@ -2,8 +2,10 @@ package org.shazeb.Arrays;
 
 public class RotatedSortedArrayMin {
     public static void main(String[] args) {
+        int[] num = {4,5,6,1,2,3};
+//        int[] num = {3,4,1,2};
 //        int[] num = {3,4,5,6,7,8,2};
-        int[] num = {3, 1, 2};
+//        int[] num = {3, 1, 2};
         System.out.println(minRotatedArray(num));
     }
 
@@ -20,13 +22,16 @@ public class RotatedSortedArrayMin {
             System.out.println("lo: " + lo + " hi: " + hi + " mid: " + mid);
             System.out.println("lo val: " + num[lo] + " hi val: " + num[hi] + " mid: " + num[mid]);
 
-            if (num[mid] > num[hi]) {
-                lo = mid + 1;
-            } else {
+            if (num[lo] > num[mid]) {
                 hi = mid;
+            } else {
+                lo = mid + 1;
             }
         }
+        if(num[lo] < num[lo-1])
         return num[lo];
+        else
+            return num[lo-1];
     }
 }
 

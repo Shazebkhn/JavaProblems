@@ -1,6 +1,4 @@
-package org.shazeb;
-
-import java.util.Locale;
+package org.shazeb.Strings;
 
 public class stringReverse {
 

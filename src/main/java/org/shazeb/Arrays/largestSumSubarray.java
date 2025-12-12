@@ -1,5 +1,10 @@
 package org.shazeb.Arrays;
 
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
 public class largestSumSubarray {
     //Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
@@ -42,6 +47,48 @@ public class largestSumSubarray {
     }
 
 
+    public static class missingNumber {
 
+        public static void main(String[] args) {
+            List<Integer> list = new ArrayList<>();
+            list.add(1);
+            list.add(1);
+            list.add(2);
+            list.add(3);
+            duplicate(list);
+        }
+
+        static int missingNum(int[] input){
+            // calculate sum
+            int expected =0;
+            int lastNum = input[input.length-1];
+            int sum = (lastNum*(lastNum+1))/2;
+            int subtractor = input[0]-1;
+            int diff = (subtractor*(subtractor+1))/2;
+            expected = sum - diff;
+            int actual = 0;
+            for (int i: input){
+                actual += i;
+            }
+    //        System.out.println(actual);
+            return expected-actual;
+
+        }
+
+        static void wordOccur(String str, String word){
+            String[] arr = str.split(" ");
+            int i=0;
+            for (String str1: arr){
+                if(str1.equals(word)) i++;
+            }
+            System.out.println("word occured "+i+ " times");
+
+        }
+
+        static void duplicate(List<Integer> list){
+            Set<Integer> set  = new HashSet<>(list);
+            System.out.println(set);
+        }
+        }
 }
 
